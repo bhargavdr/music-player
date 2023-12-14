@@ -56,6 +56,7 @@ const Login = ({ onLogin }) => {
         console.log(data);
         setToken(data.token);
         alert('Verification successful!');
+        console.log(token);
         onLogin();
       } else {
         alert('Verification failed. Please enter the correct OTP.');
