@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/music-player/static/css/main.eaa052ef.css",
+    "main.js": "/github.io/music-player/static/js/main.b5036984.js",
+    "index.html": "/github.io/music-player/index.html",
+    "main.eaa052ef.css.map": "/github.io/music-player/static/css/main.eaa052ef.css.map",
+    "main.b5036984.js.map": "/github.io/music-player/static/js/main.b5036984.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaa052ef.css",
+    "static/js/main.b5036984.js"
+  ]
+}
