@@ -30,6 +30,7 @@
   font-weight: 700;
   color: white;
   background-color: #552583;
+  cursor: pointer;
 }
 
 .login p {
@@ -62,8 +63,9 @@
   align-items: center;
 }
 
-.anchorContainer a {
+.anchorContainer span {
   text-decoration: underline;
+  cursor: pointer;
   margin: 5px;
   font-size: small;
 }
@@ -83,6 +85,8 @@
   margin: 0;
   text-align: center;
 }
+
+
 
 .sidebar {
   width: 20%;

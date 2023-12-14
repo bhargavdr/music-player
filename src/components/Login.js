@@ -126,15 +126,15 @@ const Login = ({ onLogin }) => {
           <button type="submit">Verify</button>
         </form>
         <div className="anchorContainer">
-          <a
+          <span
             onClick={() => {
               alert('OTP RESENT');
               sendOTP();
             }}
           >
             Resend OTP
-          </a>
-          <a onClick={() => setLogin(true)}>Use another Number</a>
+          </span>
+          <span onClick={() => setLogin(true)}>Use another Number</span>
         </div>
       </div>)}
     </div>
